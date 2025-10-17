@@ -5,7 +5,6 @@
 #endif
 
 int mdcComPassos (int a, int b) {
-os
     int resto;
     while (b != 0) { 
         resto = a % b;
